@@ -1,0 +1,3 @@
+el servicio de ferrocarril, necesita un programa que les ayude a organizar las cargas de sus trenes
+para lo cual solicita a cada cargamentos los siguientes datos: los km a los que se encuentra el destino, la cantidad de toneladas, y a nombre de quien es el envio. Con los datos solicitados y sabiendo que cada vagon tiene una capacidad de 100 toneladas, calcule la cantidad de vagones de carga necesitarios por carga y el costo del envio, sabiendo que el costo por vagon es de $5000 para menos de 200 km y de $10000 a partir de 200 km y definir el tipo de locomotora, tipo A hasta 50 vagones, tipo B hasta 250 vagones y tipo C para mas de 250 vagones.
+Al finalizar debe imprimir el comprobante con los datos ingresados y calculados.
